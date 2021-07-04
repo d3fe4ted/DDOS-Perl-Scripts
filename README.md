@@ -1,4 +1,4 @@
-# Tested-BooterPack
+# PerlBooterPack - All Scripts have been tested and 100% work
 
 <center>Note: I DID NOT MAKE THIS, this is just a all in one pack. Also make sure you install perl first</center>
 
