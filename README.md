@@ -24,7 +24,7 @@
 <div><a href="https://www.perl.org/get.html">Perl Installation for other OS</a><div>
   
 <h2>Recommended Port Scanner</h2>
-<a href="https://github.com/xdavidhu/portSpider">PortSpider</a>
+<a href="https://github.com/xdavidhu/portSpider">PortSpider</a> or NMAP
 
 <lu><h2>Tested Operating Systems</h2>
 <li>Termux
