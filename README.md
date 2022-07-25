@@ -2,7 +2,6 @@
   <div><h4>All Scripts have been tested and work as intended!</h4><div>
   
  <div>
-  Note: There is some py here, but that shouldn't bother you :)</div>
   
 <div><h2>Perl Installation</h2></div>
 
@@ -31,5 +30,6 @@
 <li>Ubuntu
 <li>Debian
 <li>Kali
+<li>Centos
 <li>Arch
   </lu>
